@@ -1,0 +1,112 @@
+* {
+    margin: 15px;
+    padding: 5px;
+}
+
+h1 {
+    text-align: center;
+    font-weight: bold;
+    font-family: Tahoma, Verdana, sans-serif;
+}
+h4 {
+    text-align: center;
+    font-weight: bold;
+}
+
+.container1 {
+    min-width: 750px;
+    max-width: 0px;
+    background-color: rgb(13, 99, 92);
+    margin: 0px auto;
+}
+
+.container2 {
+    min-width: 750px;
+    max-width: 0px;
+    background-color: rgb(194, 153, 153);
+    margin: 0px auto;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.container3 {
+    min-width: 750px;
+    max-width: 0px;
+    background-color: rgb(131, 161, 46);
+    margin: 0px auto;
+}
+
+.card1 {
+    background-color: white;
+    width: 200px;
+    padding: 16px;
+    box-sizing: border-box;
+    border: 2px solid black;
+    border-radius: 16px;
+    position: relative;
+    display: inline-block;
+
+}
+
+.card2 {
+    background-color: white;
+    width: 200px;
+    padding: 16px;
+    box-sizing: border-box;
+    border: 2px solid black;
+    border-radius: 16px;
+    position: relative;
+    display: inline-block;
+
+}
+
+.card3 {
+    background-color: white;
+    width: 200px;
+    padding: 16px;
+    box-sizing: border-box;
+    border: 2px solid black;
+    border-radius: 16px;
+    position: relative;
+    display: inline-block;
+
+}
+
+.top-nav2 {
+
+    position: relative;
+    list-style: decimal;
+}
+
+.carduno {
+
+    background-color: white;
+    width: 200px;
+    padding: 16px;
+    box-sizing: border-box;
+    border: 2px solid black;
+    border-radius: 16px;
+    position: relative;
+    display: inline-block;
+    justify-self: center;
+    top: auto;
+    left: 100px;
+
+
+}
+
+.carddos {
+    background-color: white;
+    width: 200px;
+    padding: 16px;
+    box-sizing: border-box;
+    border: 2px solid black;
+    border-radius: 16px;
+    position:absolute;
+    display: inline-block;
+    justify-self: center;
+    top: auto;
+    left: 380px;
+
+}
